@@ -11,7 +11,8 @@ For more information see the [AMBIENT-BD website](https://www.ambientbd.com/) an
 
 Current repositories:  
 - [AMBIENT-BD Work Package 1 - Data Management Plan](https://github.com/chronopsychiatry/Ambient-BD-WP1-DMP)
-- [AMBIENT-BD Somnofy data download](https://github.com/chronopsychiatry/Ambient-BD-VitalThings-API-Data-Access) : A a package for downloading sleep data from the radar devices and storing them in an "analysis friendly" format.
+- [AMBIENT-BD Somnofy data download](https://github.com/chronopsychiatry/Ambient-BD-VitalThings-API-Data-Access) : A package for downloading sleep data from Somnofy devices (VitalThings) and storing them in an "analysis friendly" format.
+- [AMBIENT-BD AMBIENT-Viewer](https://github.com/chronopsychiatry/AmbientViewer): A tool package to filter and visualise sleep data acquired by Somnofy devices (VitalThings).
 
 
 ## AMBIENT-Teen
