@@ -16,11 +16,18 @@ Current repositories:
 - [AMBIENT-BD RedCap Dowloader](https://github.com/chronopsychiatry/REDCap_downloader): Python script to download, clean-up and organise data from REDCap
 
 
-## AMBIENT-Teen
-AMBIENT-Teen is a feasibility study exploring radar sleep sensing in adolescents.  
+## AMBIENT-Teens
+
+AMBIENT-Teens is a feasibility study exploring radar sleep sensing in adolescents.  
 For more information, see the [study protocol published in PLOS One](https://doi.org/10.1371/journal.pone.0313286)  
 
 Current repositories:
-- [AMBIENT-Teen Data Management Plan](https://github.com/chronopsychiatry/Ambient-Teen-DMP)
-- [AMBIENT-Teen Data Cleaning](https://github.com/chronopsychiatry/Ambient-Teen-Data-Cleaning)
+- [AMBIENT-Teens Data Management Plan](https://github.com/chronopsychiatry/Ambient-Teen-DMP)
+- [AMBIENT-Teens Data Cleaning](https://github.com/chronopsychiatry/Ambient-Teen-Data-Cleaning)
+
+
+## Rhythms of Life
+
+The Rhythms of Life project is a Maynooth University-led research project investigating biological rhythms in the UK Biobank cohort.  
+- [Rhythms of Life: Exploring the Time Dimensions of Human Health and Wellbeing](https://github.com/chronopsychiatry/UK-Biobank-Time-Dimensions-Project)
 
