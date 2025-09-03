@@ -5,8 +5,9 @@ Find out more about the group here: https://chronopsychiatry.github.io/
 Our group github contains code and metadata for our different research projects.
 
 ## AMBIENT-BD 
+2023-2028
 
-AMBIENT-BD aims to use sleep and circadian rhythms data to understand trajectories and clinical outcomes in bipolar disorder.   
+AMBIENT-BD aims to use sleep and circadian rhythms data to understand trajectories and clinical outcomes in people diagnosed with bipolar disorder.   
 For more information see the [AMBIENT-BD website](https://www.ambientbd.com/) and the [study protocol published in Welcome Open Research](https://doi.org/10.12688/wellcomeopenres.23662.1).   
 
 Current repositories:  
@@ -18,9 +19,10 @@ Current repositories:
 Or see all [here](https://github.com/topics/ambient-bd)
 
 ## AMBIENT-Teens
+2024-2025
 
 AMBIENT-Teens is a feasibility study exploring radar sleep sensing in adolescents.  
-For more information, see the [study protocol published in PLOS One](https://doi.org/10.1371/journal.pone.0313286)  
+For more information, see the [AMBIENT-Teens website](https://ambientteens.wixsite.com/sleepstudy) and the [study protocol published in PLOS One](https://doi.org/10.1371/journal.pone.0313286)  
 
 Current repositories:
 - [AMBIENT-Teens Data Management Plan](https://github.com/chronopsychiatry/Ambient-Teen-DMP)
