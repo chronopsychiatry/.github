@@ -12,6 +12,8 @@ However, patterns of modern living (including shift-working and excess artificia
 
 Even though conditions such as depression, bipolar disorder and psychosis are associated with aberrant circadian and seasonal rhythms affecting sleep/wake cycles, the mechanisms of these associations remain poorly understood. Where important chronobiological discoveries have been made, the clinical application of these within mental health has been limited. More generally, the fundamental importance of healthy rhythms of sleep has historically been overlooked within public mental health initiatives.
 
+For more information, also see the [Circadian Mental Health Network website](https://www.circadianmentalhealth.org/)
+
 ## Our projects: 
 This GitHub page contains code and metadata for our different research projects:
 
