@@ -27,6 +27,7 @@ Current repositories:
 - [AMBIENT-BD Somnofy data download](https://github.com/chronopsychiatry/Ambient-BD-VitalThings-API-Data-Access) : A package for downloading sleep data from Somnofy devices (VitalThings) and storing them in an "analysis friendly" format.
 - [AMBIENT-BD AMBIENT-Viewer](https://github.com/chronopsychiatry/AmbientViewer): A tool package to filter and visualise sleep data acquired by Somnofy devices (VitalThings).
 - [AMBIENT-BD RedCap Dowloader](https://github.com/chronopsychiatry/REDCap_downloader): Python script to download, clean-up and organise data from REDCap
+- [AMBIENT-BD README templates for dataset description](https://github.com/chronopsychiatry/AMBIENT-BD-README-templates-for-datasets)
   
 Or see all [here](https://github.com/topics/ambient-bd)
 
