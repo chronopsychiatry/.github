@@ -14,7 +14,7 @@ Even though conditions such as depression, bipolar disorder and psychosis are as
 
 For more information, also see the [Circadian Mental Health Network website](https://www.circadianmentalhealth.org/)
 
-## Our projects: 
+## Our projects 
 This GitHub page contains code and metadata for our different research projects:
 
 ### AMBIENT-BD (2023-2028)
@@ -39,6 +39,10 @@ For more information, see the [AMBIENT-Teens website](https://ambientteens.wixsi
 Current repositories:
 - [AMBIENT-Teens Data Management Plan](https://github.com/chronopsychiatry/Ambient-Teen-DMP)
 - [AMBIENT-Teens Data Cleaning](https://github.com/chronopsychiatry/Ambient-Teen-Data-Cleaning)
+
+### HELIOS-BD 
+The HELIOS-BD project explores whether people with bipolar disorder have changes in their retinal structure and function, which may result in a hypersensitivity to the visual and non-visual effects of light, ultimately making people with bipolar disorder more susceptible to circadian rhythm disruptions. 
+For more information see the [HELIOS-BD website](https://www.heliosbd.com/blog/tags/helios) and the [study protocol published in Welcome Open Research](https://doi.org/10.12688/wellcomeopenres.20557.2)
 
 
 ### Rhythms of Life
