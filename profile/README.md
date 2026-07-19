@@ -45,9 +45,3 @@ Current repositories:
 The HELIOS-BD project explores whether people with bipolar disorder have changes in their retinal structure and function, which may result in a hypersensitivity to the visual and non-visual effects of light, ultimately making people with bipolar disorder more susceptible to circadian rhythm disruptions. 
 For more information see the [HELIOS-BD website](https://www.heliosbd.com/blog/tags/helios) and the [study protocol published in Welcome Open Research](https://doi.org/10.12688/wellcomeopenres.20557.2)
 
-
-### Rhythms of Life
-
-The Rhythms of Life project is a Maynooth University-led research project investigating biological rhythms in the UK Biobank cohort.  
-- [Rhythms of Life: Exploring the Time Dimensions of Human Health and Wellbeing](https://github.com/chronopsychiatry/UK-Biobank-Time-Dimensions-Project)
-
