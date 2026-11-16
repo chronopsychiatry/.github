@@ -26,7 +26,8 @@ Current repositories:
 - [AMBIENT-BD Work Package 1 - Data Management Plan](https://github.com/chronopsychiatry/Ambient-BD-WP1-DMP)
 - [AMBIENT-BD Work Package 4](https://github.com/chronopsychiatry/AMBIENT-BD-WP4.git)
 - [AMBIENT-BD Somnofy data download](https://github.com/chronopsychiatry/Ambient-BD-VitalThings-API-Data-Access) : A package for downloading sleep data from Somnofy devices (VitalThings) and storing them in an "analysis friendly" format.
-- [AMBIENT-BD Nocturn]([https://github.com/chronopsychiatry/AmbientViewer](https://github.com/chronopsychiatry/AMBIENT-BD-nocturn): A tool package to filter and visualise sleep data acquired by Somnofy devices (VitalThings).
+- [AMBIENT-BD nocturn](https://github.com/chronopsychiatry/AMBIENT-BD-nocturn) : A tool package to filter and visualise sleep data acquired by Somnofy devices (VitalThings).  
+  *Check the [nocturn app here](https://shinyserver.bio.ed.ac.uk/app/07_nocturn_app)!
 - [AMBIENT-BD RedCap Dowloader](https://github.com/chronopsychiatry/REDCap_downloader): Python script to download, clean-up and organise data from REDCap
 - [AMBIENT-BD README templates for dataset description](https://github.com/chronopsychiatry/AMBIENT-BD-README-templates-for-datasets)
   
